@@ -1,0 +1,18 @@
+# Custom ads
+0.0.0.0	bitests.pro
+0.0.0.0	comdexcipa.info
+0.0.0.0	hengaredi.pro
+0.0.0.0 tag.rutarget.ru
+
+# FB safeguard
+0.0.0.0 connect.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 connect.fb.com
+0.0.0.0 connect.fb.net
+
+# Yandex safeguard
+0.0.0.0 an.yandex.ru
+0.0.0.0 mc.yandex.ru
+
+# Malware safeguard
+0.0.0.0 magiskmanager.com

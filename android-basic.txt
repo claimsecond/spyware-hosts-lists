@@ -1,0 +1,48 @@
+# Crashlytics
+0.0.0.0 crashlytics.com
+0.0.0.0 www.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 try.crashlytics.com
+0.0.0.0 apps.crashlytics.com
+0.0.0.0 apps-ios.crashlytics.com
+0.0.0.0 o1.outbound.crashlytics.com
+0.0.0.0 o2.outbound.crashlytics.com
+0.0.0.0 o3.outbound.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+
+# Bugsnag
+0.0.0.0 bugsnag.com
+0.0.0.0 www.bugsnag.com
+0.0.0.0 docs.bugsnag.com
+0.0.0.0 staging.bugsnag.com
+0.0.0.0 on-prem-testing.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 o1.ip-wl.email.bugsnag.com
+0.0.0.0 o2.ip-wl.email.bugsnag.com
+0.0.0.0 o3.ip-wl.email.bugsnag.com
+
+# HockeyApp
+0.0.0.0 hockeyapp.net
+0.0.0.0 www.hockeyapp.net
+0.0.0.0 o1.feedback.hockeyapp.net
+0.0.0.0 o2.feedback.hockeyapp.net
+0.0.0.0 o3.feedback.hockeyapp.net
+0.0.0.0 hetzner01-cluster.hockeyapp.net
+0.0.0.0 hetzner02-cluster.hockeyapp.net
+0.0.0.0 hetzner03-cluster.hockeyapp.net
+
+# https://support.hockeyapp.net/kb/app-management-2/how-to-whitelist-hockeyapp
+0.0.0.0 rink.hockeyapp.net
+0.0.0.0 sdk.hockeyapp.net
+0.0.0.0 config.hockeyapp.net
+0.0.0.0 install.hockeyapp.net
+0.0.0.0 gate.hockeyapp.net
+0.0.0.0 cdn.hockeyapp.net
+0.0.0.0 download.hockeyapp.net
+
+# Lineage OS statistics
+0.0.0.0 stats.lineageos.org

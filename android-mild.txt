@@ -1,0 +1,30 @@
+# Captive portals
+0.0.0.0 connectivitycheck.android.com
+0.0.0.0 connectivitycheck.google.com
+0.0.0.0 connectivitycheck.gstatic.com
+
+# Android NTP servers
+0.0.0.0 time.android.com
+0.0.0.0 time1.android.com
+0.0.0.0 time2.android.com
+0.0.0.0 time3.android.com
+0.0.0.0 time4.android.com
+0.0.0.0 time5.android.com
+0.0.0.0 time6.android.com
+0.0.0.0 time7.android.com
+0.0.0.0 time8.android.com
+0.0.0.0 time9.android.com
+
+0.0.0.0 time.google.com
+0.0.0.0 time1.google.com
+0.0.0.0 time2.google.com
+0.0.0.0 time3.google.com
+0.0.0.0 time4.google.com
+0.0.0.0 time5.google.com
+0.0.0.0 time6.google.com
+0.0.0.0 time7.google.com
+0.0.0.0 time8.google.com
+0.0.0.0 time9.google.com
+
+# A-GPS supplicant
+0.0.0.0 supl.google.com

@@ -1,0 +1,8 @@
+# MicroG? Yalp?
+0.0.0.0 play.google.com
+0.0.0.0 tokenized.play.google.com
+
+# GoogleFeed blob in Trebuchet; breaks G Captcha
+0.0.0.0 play.googleapis.com
+0.0.0.0 google.com
+0.0.0.0 www.google.com

@@ -1,0 +1,4 @@
+# By using this you will achieve better privacy at the cost of some security
+
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 shavar.services.mozilla.com
